@@ -1,0 +1,11 @@
+{
+  "name": "m480tc",
+  "version": "0.0.1",
+  "private": true,
+  "repository": "https://github.com/jasonappah/m480tc.git",
+  "author": "Jason Antwi-Appah <hey@jasonaa.me>",
+  "license": "MPL-2.0",
+  "workspaces": [
+      "packages/*"
+  ]
+}
