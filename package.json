@@ -6,6 +6,6 @@
   "author": "Jason Antwi-Appah <hey@jasonaa.me>",
   "license": "MPL-2.0",
   "workspaces": [
-      "packages/*"
+    "packages/*"
   ]
 }

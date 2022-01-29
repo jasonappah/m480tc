@@ -1,0 +1,21 @@
+{
+	"name": "m480",
+	"version": "0.0.1",
+	"description": "Library to interact with Roland M480 consoles over MIDI",
+	"main": "dist/index.js",
+	"scripts": {
+		"build": "tsc",
+		"format": "prettier --write './src/**/*' -u",
+		"format:check": "prettier --check './src/**/*' -u"
+	},
+	"author": "Jason Antwi-Appah <hey@jasonaa.me>",
+	"license": "MPL-2.0",
+	"devDependencies": {
+		"@types/node": "^16.11.6",
+		"prettier": "^2.4.1",
+		"typescript": "^4.4.4"
+	},
+	"dependencies": {
+		"easymidi": "^2.1.0"
+	}
+}
